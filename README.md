@@ -1,5 +1,5 @@
-# Projeto Integrado
-Este repositório documenta o desenvolvimento do Projeto Integrado, uma iniciativa que visa a integração de conhecimentos e habilidades adquiridas ao longo do curso. Através da aplicação prática de conceitos multidisciplinares, o projeto busca abordar desafios reais e propor soluções inovadoras.
+# Projeto Integrado II
+Este repositório documenta o desenvolvimento do Projeto Integrado  II, disciplina do segundo semestre de Análise e Desenvolvimento de Sistemas pela UFCA, que visa a integração de conhecimentos e habilidades adquiridas ao longo do curso. Através da aplicação prática de conceitos multidisciplinares, o projeto busca abordar desafios reais e propor soluções inovadoras.
 
 ## Tema do Projeto
 [Insira o tema principal do seu projeto e descreva-o]
