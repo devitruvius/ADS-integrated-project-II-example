@@ -62,6 +62,17 @@ Este repositório documenta o desenvolvimento do Projeto Integrado  II, discipli
 
 [Liste os membros da equipe do projeto, incluindo suas funções e responsabilidades.]
 
+## Navegação
+* [Projeto Integrado I](https://github.com/seu-user/PI-I)
+
+* ***Projeto Integrado II***
+
+* [Projeto Integrado III](https://github.com/seu-user/PI-III)
+
+* [Projeto Integrado IV](https://github.com/seu-user/PI-IV)
+
+* [Projeto Integrado (Repositório Pai)](https://github.com/devitruvius/ADS-integrated-project-example)
+
 ## Licença
 
 Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
